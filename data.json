@@ -5,7 +5,7 @@
       "type": "graphic",
       "format": "jpg",
       "tags": ["nature", "sunset"],
-      "url": "https://aadhijithu.github.io/figma-plugin-library/assets/butterfly-white.jpg"
+      "url": "https://aadhijithu.github.io/figma-assest-library/assets/graphics/image1.jpg"
     },
     {
       "id": "002",
@@ -13,7 +13,7 @@
       "type": "icon",
       "format": "svg",
       "tags": ["arrow", "direction"],
-      "url": "https://aadhijithu.github.io/figma-plugin-library/assets/growth.svg"
+      "url": "https://aadhijithu.github.io/figma-asset-library/assets/icons/icon1.svg"
     }
   ]
   
