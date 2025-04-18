@@ -1,0 +1,19 @@
+[
+    {
+      "id": "001",
+      "title": "Sunset Landscape",
+      "type": "graphic",
+      "format": "jpg",
+      "tags": ["nature", "sunset"],
+      "url": "https://aadhijithu.github.io/figma-plugin-assets/assets/butterfly-white.jpg"
+    },
+    {
+      "id": "002",
+      "title": "Flat Arrow Icon",
+      "type": "icon",
+      "format": "svg",
+      "tags": ["arrow", "direction"],
+      "url": "https://aadhijithu.github.io/figma-plugin-assets/assets/growth.svg"
+    }
+  ]
+  
